@@ -78,3 +78,5 @@ Werkzeug==2.2.2
 wrapt==1.14.1
 xxhash==3.1.0
 yarl==1.8.1
+ipython==8.6.0
+torch==1.13.0
